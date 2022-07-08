@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ANDROIDFIREBASEEMAILAPP</string>
+    <string name="email_anda">Email Anda</string>
+    <string name="password_anda">Password Anda</string>
+    <string name="masuk">Masuk</string>
+    <string name="belum_punya_akun">Belum Punya Akun ?</string>
+    <string name="daftar">Daftar</string>
+    <string name="silakan_masuk_menggunakan_akun_yang_telah_terdaftar">Silakan Masuk Menggunakan Akun Yang Telah Terdaftar</string>
+    <string name="silakan_daftar_akun_yang_telah_terdaftar">Silakan Melakukan Pendaftaran Akun Di Sini</string>
+    <string name="punya_akun">Sudah Punya Akun ?</string>
+    <string name="lupa_password">Lupa Password</string>
+    <string name="silakan_masukkan_password_terbaru_anda">Silakan Masukkan Password Terbaru Anda</string>
+    <string name="passwordconfirm_anda">Konfirmasi Password</string>
+    <string name="kirim">Kirim Password</string>
+    <string name="nama_anda">Nama Anda</string>
+    <string name="silakan_masukkan_email_anda">Silakan Masukkan Email Terdaftar Anda</string>
+    <string name="ubah">Lupa Password</string>
+</resources>
